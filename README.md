@@ -1,13 +1,14 @@
-# Marvel-Build
-Marvel Build
+# Marvel CSS Sprite Build
+
+This repo is for the in class marvel build. The marvel build demonstrates the use of CSS sprites and other css layout techniques.
 
 ## Installation
 
-TODO: Describe the installation process
+No installation is required.
 
 ## Usage
 
-TODO: Write usage instructions
+Open the index file in your browser of choice.
 
 ## Contributing
 
@@ -23,8 +24,8 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+Marco De Luca
 
 ## License
 
-TODO: Write license
+MIT - see license file for more information.
