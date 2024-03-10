@@ -1,6 +1,6 @@
-# Marvel CSS Sprite Build
+# Pokemon Evolution
 
-This repo is for the in class marvel build. The marvel build demonstrates the use of CSS sprites and other css layout techniques.
+In this build get to know the evolved pokemon of each 6 pokemons provided in the build this website also shows each pokemons power, and weaknesses hover to evolved click to see complete cvolved pokemon and its profile. Thank you by Tapshveer Benipal
 
 ## Installation
 
@@ -24,7 +24,7 @@ TODO: Write history
 
 ## Credits
 
-Marco De Luca
+Marco De Luca, Tapshveer Benipal
 
 ## License
 
